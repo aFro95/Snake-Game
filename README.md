@@ -1,6 +1,7 @@
 # Snake Game
 
 This is a classic Snake Game implemented in Python using the Turtle module for graphics.
+
 <img src="Snake Game.png" alt="Snake Game" style="width: 500px; height: 500px">
 
 ## Table of Contents
